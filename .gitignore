@@ -8,3 +8,6 @@ venv/
 
 # Django
 db.sqlite3
+
+node_modules
+cypress.env.json
