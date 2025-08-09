@@ -1,0 +1,1 @@
+# django_htmx_tailwind_app
